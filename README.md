@@ -1,2 +1,6 @@
 # golang-install-linux
-Script to install the latest golang version in a debian based linux
+Script to install the latest Golang version on Debian based distributions
+
+Working only for bash and zsh at this moment;
+Check if you have an apt version of Golang installed before running the script
+
